@@ -3,6 +3,8 @@
 Restaurant Search Task
 
 Technologies used: React, Redux
+
+
 Packages used:
 
 1. Axios
@@ -23,10 +25,13 @@ Features:
 1. Shows restaurant collections, categories available in a city. Users can choose a particular collection/category to see all restaurants listed under that category.
 2. Users can search for restaurants, cuisines in a city and apply filters to modify search results.
 3. Users can see restaurant details such as: 1. Location, cuisines, ratings, average cost, online delivery and table reservation availability. 2. Customer reviews and ratings.
+
+
+
    Getting started
    Requirements:
-4. NPM
-5. Node JS
+1. NPM
+2. Node JS
 
 To install the packages,
 
